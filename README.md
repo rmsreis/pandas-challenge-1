@@ -85,3 +85,8 @@ The highest spending client ordered over {z} units and generated the most profit
 """
 
 print(summary_text)
+```
+
+
+Designed by Roberto dos Reis / @rmsreis
+
